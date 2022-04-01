@@ -2,8 +2,15 @@
 	  "expires": 1648889146,
     "sections": [
                     {
-                        "title": "VOD recommended",
+                        "title": "Featured",
                         "tiles": [
+				   {
+					"title": "RuPauls Drag Race UK",
+					"image_ratio": "16by9",
+					"image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/1.jpg",
+					"action_data": "{\"videoIdx\": 1}",
+					"is_playable": true
+				    },
                                     {
                                         "title": "Living",
                                         "image_ratio": "1by1",
