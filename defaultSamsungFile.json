@@ -8,7 +8,7 @@
 					"title": "Emmerdale",
 					"image_ratio": "16by9",
 					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/1057_517x291_1480269374.jpg",
-					"action_data": "{\"videoIdx\": 1}",
+					"action_data":  "{show_id: 1057}",
 					"is_playable": true
 				    },
 				    {
@@ -19,34 +19,131 @@
 					"is_playable": true
 				    },
                                     {
-                                        "title": "Living",
-                                        "image_ratio": "1by1",
-                                        "image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/2.jpg",
-                                        "action_data": "{\"videoIdx\": 2}",
-                                        "is_playable": true
-                                    },
-                                    {
-                                        "title": "Cooking",
-                                        "subtitle": "Season 1",
-                                        "image_ratio": "16by9",
-                                        "image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/3.jpg",
-                                        "action_data": "{\"pictureIdx\": 3}",
-                                        "is_playable": false
-                                    },
-                                    {
-                                        "title": "Party",
-                                        "image_ratio": "16by9",
-                                        "image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/4.jpg",
-                                        "action_data": "{\"pictureIdx\": 4}",
-                                        "is_playable": false
-                                    },
-                                    {
-                                        "title": "Animal",
-                                        "image_ratio": "16by9",
-                                        "image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/5.jpg",
-                                        "action_data": "{\"pictureIdx\": 5}",
-                                        "is_playable": false
-                                    }
+					"title": "Bradley Walsh & Son : Breaking Dad",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/2244_517x291_1647877799.jpg",
+					"action_data": "{show_id: 2244}",
+					"is_playable": true
+				},
+				{
+					"title": "Coronation Street",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/1058_517x291_1480269625.jpg",
+					"action_data": "{show_id: 1058}",
+					"is_playable": true
+				},
+				{
+					"title": "The Pact",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/2251_517x291_1648497943.jpg",
+					"action_data": "{show_id: 2251}",
+					"is_playable": true
+				},
+				{
+					"title": "Concert For Ukraine",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/2253_517x291_1648586752.jpg",
+					"action_data": "{show_id: 2253}",
+					"is_playable": true
+				},
+				{
+					"title": "Emmerdale",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/1057_517x291_1480269374.jpg",
+					"action_data": "{show_id: 1057}",
+					"is_playable": true
+				},
+				{
+					"title": "The Group Chat",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/2247_517x291_1648120172.jpg",
+					"action_data": "{show_id: 2247}",
+					"is_playable": true
+				},
+				{
+					"title": "Ant and Dec's Saturday Night Takeaway",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/712_517x291_1646579917.jpg",
+					"action_data": "{show_id: 712}",
+					"is_playable": true
+				},
+				{
+					"title": "Emmerdale",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/1057_517x291_1480269374.jpg",
+					"action_data": "{show_id: 1057}",
+					"is_playable": true
+				},
+				{
+					"title": "Dancing on Ice",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/1401_517x291_1642415173.jpg",
+					"action_data": "{show_id: 1401}",
+					"is_playable": true
+				},
+				{
+					"title": "UEFA European Qualifier Highlights",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/1772_517x291_1568153538.jpg",
+					"action_data": "{show_id: 1772}",
+					"is_playable": true
+				},
+				{
+					"title": "The Tonight Show",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/1294_517x291_1647344005.jpg",
+					"action_data": "{show_id: 1294}",
+					"is_playable": true
+				},
+				{
+					"title": "News at 7",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/2236_517x291_1646648788.jpg",
+					"action_data": "{show_id: 2236}",
+					"is_playable": true
+				},
+				{
+					"title": "Heartbeat",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/1272_517x291_1504367499.jpg",
+					"action_data": "{show_id: 1272}",
+					"is_playable": true
+				},
+				{
+					"title": "Storage Hoarders",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/2121_517x291_1626441489.jpg",
+					"action_data": "{show_id: 2121}",
+					"is_playable": true
+				},
+				{
+					"title": "AFLW Highlights",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/2213_517x291_1641817363.jpg",
+					"action_data": "{show_id: 2213}",
+					"is_playable": true
+				},
+				{
+					"title": "Ireland AM",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/809_517x291_1564493962.jpg",
+					"action_data": "{show_id: 809}",
+					"is_playable": true
+				},
+				{
+					"title": "Dancing on Ice",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/1401_517x291_1642415173.jpg",
+					"action_data": "{show_id: 1401}",
+					"is_playable": true
+				},
+				{
+					"title": "The Chase Australia",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/1603_517x291_1547211783.jpg",
+					"action_data": "{show_id: 1603}",
+					"is_playable": true
+				}
                                 ]
                     }
                 ]
