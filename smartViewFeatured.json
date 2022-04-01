@@ -1,0 +1,31 @@
+{
+	"expires": 1648889146,
+	"sections": [
+		{
+			"title": "Featured",
+			"titles": [
+				{
+					"title": "RuPauls Drag Race UK",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/sitefiles/player_graphics/1476_1646987726.jpg",
+					"action_data": "{show_id: 2082}",
+					"is_playable": true
+				},
+				{
+					"title": "The Group Chat",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/sitefiles/player_graphics/1484_1648204973.jpg",
+					"action_data": "{show_id: 2247}",
+					"is_playable": true
+				},
+				{
+					"title": "The Pact",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/sitefiles/player_graphics/1488_1648739671.jpg",
+					"action_data": "{show_id: 2251}",
+					"is_playable": true
+				}
+			]
+		}
+	]
+}
