@@ -2,13 +2,20 @@
 	  "expires": 1648889146,
     "sections": [
                     {
-                        "title": "Featured",
+                        "title": "Popular",
                         "tiles": [
 				   {
-					"title": "RuPauls Drag Race UK",
+					"title": "Emmerdale",
 					"image_ratio": "16by9",
-					"image_url": "https://bcboltvirgin.akamaized.net/sitefiles/player_graphics/1476_1646987726.jpg",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/1057_517x291_1480269374.jpg",
 					"action_data": "{\"videoIdx\": 1}",
+					"is_playable": true
+				    },
+				    {
+					"title": "The Criminal Assets Bureau",
+					"image_ratio": "16by9",
+					"image_url": "https://bcboltvirgin.akamaized.net/player/shows/2246_517x291_1647961558.jpg",
+					"action_data": "{show_id: 2246}",
 					"is_playable": true
 				    },
                                     {
