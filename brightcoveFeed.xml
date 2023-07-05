@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ext="http://ooyala.com/syndication/ext/" version="2.0">
+      <channel>
+        <title>Streaming POC</title>
+        <description>Streaming POC</description>
+        <link>https://social.feeds.brightcove.com/v1/accounts/6415685456001/mrss/syndications/464f056f-b60c-496d-92db-5c64fc85f324/feed</link>
+        <item>
+          <title>QVCUKTest</title>
+          <id>6328503617112</id>
+          <link>https://players.brightcove.net/6415685456001/default_default/index.html?videoId=6328503617112</link>
+          <createDate>Tue, 30 May 2023 19:45:22 +0000</createDate>
+          <dcterms:valid>start=2023-05-30T19:45+00:00;scheme=W3C-DTF</dcterms:valid>
+          <media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415685456001/379dd62b-fafc-42ee-8483-428202a3a1b2/main/160x90/1m59s722ms/match/image.jpg" width="160" height="90"/>
+          <media:poster url="https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415685456001/379dd62b-fafc-42ee-8483-428202a3a1b2/main/1280x720/1m59s722ms/match/image.jpg" width="1280" height="720"/>
+          <media:content url="https://manifest.prod.boltdns.net/manifest/v1/hls/v5/fairplay/6415685456001/379dd62b-fafc-42ee-8483-428202a3a1b2/6s/master.m3u8?fastly_token=NjRhNWQwOGFfNWQwMDc3OGIxOTc0ZmRlOTlmM2I5NzE1NjU5NTllYzE5M2NmYmYwMWE5ZTM1YzUyZDMwYWY5YzEwNmIyODk1Nw%3D%3D" type="hls" medium="video" expression="full" duration="239"/>
+          <ext:originalFilename>
+            <![CDATA[ QVCUKTest.mp4 ]]>
+          </ext:originalFilename>
+        </item>
+        <item>
+          <title>QVC Clip BC Mezz HLS Test</title>
+          <id>6327099362112</id>
+          <link>https://players.brightcove.net/6415685456001/default_default/index.html?videoId=6327099362112</link>
+          <createDate>Tue, 09 May 2023 17:57:37 +0000</createDate>
+          <dcterms:valid>start=2023-05-09T17:57+00:00;scheme=W3C-DTF</dcterms:valid>
+          <media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415685456001/e14e6b9a-6c3f-4052-a2ce-6e97b03ba594/main/160x90/1m3s541ms/match/image.jpg" width="160" height="90"/>
+          <media:poster url="https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415685456001/e14e6b9a-6c3f-4052-a2ce-6e97b03ba594/main/1280x720/1m3s541ms/match/image.jpg" width="1280" height="720"/>
+          <media:content url="https://manifest.prod.boltdns.net/manifest/v1/hls/v5/fairplay/6415685456001/e14e6b9a-6c3f-4052-a2ce-6e97b03ba594/6s/master.m3u8?fastly_token=NjRhNWQwMDdfYTZmZGE4ZGZiYjM0NTNiMzAwNmQ5YTA0NjQwYzFmZTUwZDAwMzc1NmIxZDk4OGVkZTFiNzEzYTI3ZDg1NDUxNA%3D%3D" type="hls" medium="video" expression="full" duration="127"/>
+          <ext:originalFilename>
+            <![CDATA[ QVC Clip BC Mezz HLS Test.mp4 ]]>
+          </ext:originalFilename>
+        </item>
+      </channel>
+			<channel>
+        <title>Streaming POC 1</title>
+        <description>Streaming POC</description>
+        <link>https://social.feeds.brightcove.com/v1/accounts/6415685456001/mrss/syndications/464f056f-b60c-496d-92db-5c64fc85f324/feed</link>
+        <item>
+          <title>QVCUKTest</title>
+          <id>6328503617112</id>
+          <link>https://players.brightcove.net/6415685456001/default_default/index.html?videoId=6328503617112</link>
+          <createDate>Tue, 30 May 2023 19:45:22 +0000</createDate>
+          <dcterms:valid>start=2023-05-30T19:45+00:00;scheme=W3C-DTF</dcterms:valid>
+          <media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415685456001/379dd62b-fafc-42ee-8483-428202a3a1b2/main/160x90/1m59s722ms/match/image.jpg" width="160" height="90"/>
+          <media:poster url="https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415685456001/379dd62b-fafc-42ee-8483-428202a3a1b2/main/1280x720/1m59s722ms/match/image.jpg" width="1280" height="720"/>
+          <media:content url="https://manifest.prod.boltdns.net/manifest/v1/hls/v5/fairplay/6415685456001/379dd62b-fafc-42ee-8483-428202a3a1b2/6s/master.m3u8?fastly_token=NjRhNWQwOGFfNWQwMDc3OGIxOTc0ZmRlOTlmM2I5NzE1NjU5NTllYzE5M2NmYmYwMWE5ZTM1YzUyZDMwYWY5YzEwNmIyODk1Nw%3D%3D" type="hls" medium="video" expression="full" duration="239"/>
+          <ext:originalFilename>
+            <![CDATA[ QVCUKTest.mp4 ]]>
+          </ext:originalFilename>
+        </item>
+        <item>
+          <title>QVC Clip BC Mezz HLS Test</title>
+          <id>6327099362112</id>
+          <link>https://players.brightcove.net/6415685456001/default_default/index.html?videoId=6327099362112</link>
+          <createDate>Tue, 09 May 2023 17:57:37 +0000</createDate>
+          <dcterms:valid>start=2023-05-09T17:57+00:00;scheme=W3C-DTF</dcterms:valid>
+          <media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415685456001/e14e6b9a-6c3f-4052-a2ce-6e97b03ba594/main/160x90/1m3s541ms/match/image.jpg" width="160" height="90"/>
+          <media:poster url="https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415685456001/e14e6b9a-6c3f-4052-a2ce-6e97b03ba594/main/1280x720/1m3s541ms/match/image.jpg" width="1280" height="720"/>
+          <media:content url="https://manifest.prod.boltdns.net/manifest/v1/hls/v5/fairplay/6415685456001/e14e6b9a-6c3f-4052-a2ce-6e97b03ba594/6s/master.m3u8?fastly_token=NjRhNWQwMDdfYTZmZGE4ZGZiYjM0NTNiMzAwNmQ5YTA0NjQwYzFmZTUwZDAwMzc1NmIxZDk4OGVkZTFiNzEzYTI3ZDg1NDUxNA%3D%3D" type="hls" medium="video" expression="full" duration="127"/>
+          <ext:originalFilename>
+            <![CDATA[ QVC Clip BC Mezz HLS Test.mp4 ]]>
+          </ext:originalFilename>
+        </item>
+      </channel>
+    </rss>
